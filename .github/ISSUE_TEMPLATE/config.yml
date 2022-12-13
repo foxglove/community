@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "🙋‍♀️ Discussions"
+    url: https://github.com/orgs/foxglove/discussions
+    about: Please do not create issues directly in this repository. Instead, start a new discussion.
